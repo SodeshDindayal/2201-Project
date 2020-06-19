@@ -1,0 +1,7 @@
+.shopping-cart{
+   padding: 2% 0;
+}
+.cart-items + .cart-items{
+    padding: 1% 0;
+}
+
