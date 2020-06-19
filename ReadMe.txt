@@ -1,0 +1,3 @@
+- Install Wamp
+- Install database located in SQL File
+- Run localhost and view webpage
